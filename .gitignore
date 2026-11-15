@@ -1,0 +1,16 @@
+node_modules/
+dist/
+coverage/
+.env
+.env.*
+!.env.example
+var/
+*.apk
+*.aab
+*.jks
+*.keystore
+.gradle/
+local.properties
+
+__pycache__/
+*.pyc
